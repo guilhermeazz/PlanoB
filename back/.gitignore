@@ -1,0 +1,26 @@
+# dependencies
+/node_modules
+
+# dotenv environment variables file
+.env
+
+# logs
+logs
+*.log
+npm-debug.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.idea/
+.vscode/
+
+# database files
+data/*.db
+data/*.sqlite
+
+# temporary directories and files
+/tmp
+/temp
